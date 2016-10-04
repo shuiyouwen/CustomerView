@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomerViewGroup">
+        <attr name="childWidth" format="dimension" />
+        <attr name="childHeight" format="dimension" />
+    </declare-styleable>
+</resources>
